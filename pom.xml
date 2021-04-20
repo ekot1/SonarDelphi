@@ -180,12 +180,12 @@
 		<dependency>
 			<groupId>com.thoughtworks.xstream</groupId>
 			<artifactId>xstream</artifactId>
-			<version>1.4.15</version>
+			<version>1.4.16</version>
 		</dependency>
 		<dependency>
 			<groupId>com.google.guava</groupId>
 			<artifactId>guava</artifactId>
-			<version>24.1.1-jre</version>
+			<version>30.0-jre</version>
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
